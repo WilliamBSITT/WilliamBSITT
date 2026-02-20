@@ -9,8 +9,12 @@
 *If you want to reach me you can find some contact information below.*
 
 <div align="center">
-  Gmail 	[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](william.sitt@epitech.eu)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/william-sitt-33a433283/)
+  <a href="mailto:william.sitt@epitech.eu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/william-sitt-33a433283/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
