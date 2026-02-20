@@ -1,8 +1,13 @@
 # Hello World, I'm William SITT !
 
-> **"If it doesn't have a real-world impact, it's just syntax."** >**Fullstack Developer & Maker.** > I build software that scales and hardware that moves. I’m focused on creating functional, real-world tools.
+> ### **Fullstack Developer & Maker**
+> I build software that scales and hardware that moves. I’m focused on creating functional, real-world tools.
+
+---
 
 ## ✉️ Contact me
+*If you want to reach me you can find some contact information below.*
+
 <div align="center">
   <a href="mailto:william.sitt@epitech.eu">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -15,6 +20,7 @@
 ---
 
 ## 🛠️ Technical Stack
+*Below you can find a collection of languages, frameworks, and tools I have actively used or still use during my studies, work placement or as hobbyist.*
 
 ### ⚙️ Low-Level & Systems
 <p align="left">
@@ -31,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,yml" />
 </p>
 
-### 🧰 Outils & Environnement
+### 🧰 Tools & Workspace
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,linux,windows,postman,figma,powershell" />
 </p>
